@@ -40,7 +40,7 @@ CNNs utilize convolutional layers to extract features and reduce dimensionality.
 
 ## Results
 
-The CNN emerged as the most effective method for detecting AI-generated images, demonstrating the highest accuracy and efficient training time compared to SVM and KNN.
+The CNN emerged as the most effective method for detecting AI-generated images, demonstrating the highest accuracy and efficient training time compared to SVM and KNN. 
 
 ## Future Directions
 
@@ -48,5 +48,5 @@ Future improvements could involve using the complete dataset, employing better h
 
 ## Conclusion
 
-This project successfully evaluated and compared SVM, KNN, and CNN for AI-generated image detection. CNN proved to be the most effective method with the highest accuracy. This highlights its suitability for image classification tasks involving real versus AI-generated images.
+This project successfully evaluated and compared SVM, KNN, and CNN for AI-generated image detection. CNN proved to be the most effective method with the highest accuracy. This highlights its suitability for image classification tasks involving real versus AI-generated images. The results can be replicated by running any of the three Jupyter notebooks.
 
